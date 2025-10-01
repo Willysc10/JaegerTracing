@@ -1,0 +1,2 @@
+# JaegerTracing
+Professional JaegerTracing infrastructure with JaegerTracing-optimized enterprise-grade and enterprise jaegertracing-optimization capabilities
